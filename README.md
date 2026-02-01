@@ -4,7 +4,7 @@ Some useful scripts used to manage the entire review process of the [IJCNN 2025]
 
 This repository contains 20 Python scripts and related Jupyter Notebooks implementing different steps of the Whole conference process, from importing Reviewers to making the final program in .docx format.
 
-Specifically, all scripts and notebooks resort to the Python module IJCNN_utils, which is a long file (about 1,500 lines) containing the definition of 40 function used in the scripts and notebooks.
+Specifically, all scripts and notebooks resort to the Python module `IJCNN_utils`, which is a long file (about 1,500 lines) containing the definition of 40 function used in the scripts and notebooks.
 
 
 
