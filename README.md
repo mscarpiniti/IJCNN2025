@@ -72,4 +72,4 @@ The scripts and related notebooks are organized into 4 groups, detailed as follo
 
 ## Reference
 
-1. Michele Scarpiniti and Danilo Comminiello, "The IJCNN 2025 Review Process," *arXiv*, DOI:
+1. Michele Scarpiniti and Danilo Comminiello, "The IJCNN 2025 Review Process," *arXiv:2603.19244*, DOI: [10.48550/arXiv.2603.19244](https://doi.org/10.48550/arXiv.2603.19244)
